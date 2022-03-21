@@ -1,5 +1,5 @@
 <?php 
-//session_start();
+
 
 ?>
 
@@ -26,7 +26,7 @@ else{ ?>
 				<li><a href="logout.php"><i class="icon fa fa-sign-out"></i>Logout</a></li>
 				<?php } ?>	
 				</ul>
-			</div><!-- /.cnt-account -->
+			</div>
 
 <div class="cnt-block">
 				<ul class="list-unstyled list-inline">
@@ -40,6 +40,6 @@ else{ ?>
 			</div>
 			
 			<div class="clearfix"></div>
-		</div><!-- /.header-top-inner -->
-	</div><!-- /.container -->
-</div><!-- /.header-top -->
+		</div>
+	</div>
+</div>
